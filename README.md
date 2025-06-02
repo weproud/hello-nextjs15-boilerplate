@@ -554,3 +554,4 @@ References
 [14] vitest + msw 로 변경에 유연한 단위 / 통합 테스트코드 작성하기 - https://velog.io/@brince/vitest-msw-%EB%A1%9C-%EB%B3%80%EA%B2%BD%EC%97%90-%EC%9C%A0%EC%97%B0%ED%95%9C-%EB%8B%A8%EC%9C%84-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0
 [15] 사용자 동작을 중심으로 Playwright로 E2E 테스트 작성하기 - Part 1 - https://onepredict.github.io/playwright-e2e-part1/
 [16] Playwright로 E2E 테스트 작성하기 - TOAST UI - https://ui.toast.com/posts/ko_20210818/
+# hello-nextjs15-boilerplate
